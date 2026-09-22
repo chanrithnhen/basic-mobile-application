@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         ),
         body: const Center(
           child: Text(
-            'Welcome to my Basic App',
+            'Welcome to my Basic App v2',
             style: TextStyle(fontSize: 24),
           ),
         ),
